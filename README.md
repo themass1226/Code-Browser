@@ -15,6 +15,7 @@ Key Features
 Target Users
 • Software Developers: Quickly view, search, and edit code • Tech Learners: Browse excellent open-source projects to enhance programming skills • Project Managers: Track GitHub trends and team code repositories • Programming Enthusiasts: Explore the world of code anytime, anywhere
 
+[Download on the App Store](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200">](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
 
@@ -36,6 +37,8 @@ Code Browser 是一款专为开发者设计的轻量级浏览器。它不仅能�
 - **技术学习者**：浏览优秀开源项目，提升编程能力  
 - **项目经理**：追踪 GitHub 趋势与团队代码仓库  
 - **编程爱好者**：随时随地探索代码世界
+- 
+[马上下载](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="到 AppStore 下载" width="200">](https://apps.apple.com/us/app/code-browser-browser-for-dev/id6757285987)
 
